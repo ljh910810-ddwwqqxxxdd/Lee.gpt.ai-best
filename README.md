@@ -19,9 +19,26 @@ very good student
 
 1. 저장소를 다운로드하거나 클론합니다.
 
-```bash
 git clone https://github.com/username/project-name.git
 
+2. 프로젝트 폴더로 이동합니다.
+
+cd project-name
+
+3. 필요한 패키지를 설치합니다.
+
+pip install -r requirements.txt
+
+4. 프로젝트를 실행합니다.
+
+python main.py
+
+## 기대 효과
+
+이 프로젝트를 통해 사용자는 자료 정리, 내용 요약, 정보 구조화와 같은 반복적인 작업을 보다 빠르고 효율적으로 수행할 수 있습니다.
+
+또한 결과를 한눈에 확인할 수 있어 학습, 과제, 프로젝트 정리 등 다양한 상황에서 활용할 수 있습니다.
 
 ## 라이선스
+
 MIT License
