@@ -21,3 +21,7 @@ very good student
 
 ```bash
 git clone https://github.com/username/project-name.git
+
+
+## 라이선스
+MIT License
